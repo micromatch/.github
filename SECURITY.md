@@ -1,13 +1,8 @@
 <h1 align="center">Security Policy</h1>
 
-<p align="center">
-  <i>(Get enterprise support with a <a href="https://tidelift.com/subscription/pkg/micromatch">Tidelift</a> subscription)<i>
-</p>
-
 1. [Reporting vulnerabilities](#reporting)
 1. [Security Point of Contact](#contact)
 1. [Incident Response Process](#process)
-1. [Get Professional support](#support) from [Tidelift](https://tidelift.com/subscription/pkg/micromatch)
 1. [Additional Information](#additional-information)
 
 Pull requests to improve this document are welcome and appreciated.
@@ -27,8 +22,6 @@ Instead, please send an email to <github@sellside.com>. See [Responsible Disclos
 ## Security Point of Contact
 
 After you send an email to <github@sellside.com>, you should receive a response from [Jon Schlinkert](https://github.com/jonschlinkert) or [Brian Woodward](https://github.com/doowb) within one business day. 
-
-If you need a faster response or require enterprise-grade support, consider getting a **[Tidelift subscription](https://tidelift.com/subscription/pkg/micromatch)**. 
 
 <br>
 
@@ -67,9 +60,7 @@ All micromatch projects are:
 - open source
 - made available under the permissive copy-left MIT License
 - supported by software developers in their free time
-
-If your organization needs greater assurances, consider paying for proessional support with a **[Tidelift](https://tidelift.com/subscription/pkg/micromatch)** subscription.
-
+- 
 <br>
 
 ## Additional information
